@@ -8,9 +8,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at SATI Vidisha and coding stuffs.
-
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+- 🎓 &nbsp; Studying Computer Science and Engineering with specialization in Internet of Things at SATI Vidisha and coding stuffs.
 
 - ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
 
@@ -20,7 +18,7 @@
 
 
 
-- 💻 &nbsp; Python | Java | C | MySQL
+- 💻 &nbsp; Python | Java | C | MySQL | Arduino
 
 - 🌐 &nbsp; HTML | CSS | JavaScript
 
@@ -38,7 +36,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
+- 🔧 &nbsp; AWS | Artificial Intelligence | Firebase | Flask 
 
 <hr>
 
@@ -74,7 +72,7 @@
 
 <a href="https://www.linkedin.com/in/akshatjain--/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-akshatjain1101-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="https://x.com/AkshatJain1101/"><img alt="Twitter" src="https://img.shields.io/badge/X-AkshatJain1101-black?style=flat-square&logo=x"></a>
+<a href="https://x.com/AkshatJain1101/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-AkshatJain1101-black?style=flat-square&logo=x"></a>
 
 <a href="mailto:jainakshat1101@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jainakshat1101@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
@@ -84,7 +82,7 @@
 
 
 
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=shivam0110.shivam0110)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=akshatjain1101)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 
 
