@@ -74,7 +74,7 @@
 
 <a href="https://www.linkedin.com/in/akshatjain--/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-akshatjain1101-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="https://www.instagram.com/i__disbalance/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
+<a href="https://x.com/AkshatJain1101/"><img alt="Twitter" src="https://img.shields.io/badge/X-AkshatJain1101-black?style=flat-square&logo=x"></a>
 
 <a href="mailto:jainakshat1101@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jainakshat1101@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
