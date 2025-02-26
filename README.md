@@ -18,7 +18,7 @@
 
 
 
-- 💻 &nbsp; Python | Java | C | MySQL | Arduino
+- 💻 &nbsp; Python | C++ | C | MySQL | Arduino
 
 - 🌐 &nbsp; HTML | CSS | JavaScript
 
